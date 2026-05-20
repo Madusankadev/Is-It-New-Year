@@ -1,4 +1,4 @@
-<h1>Is ItNew Yesr Django Application</h1>
+<h1>Is It New Yesr Django Application</h1>
 
 <p>Description: My fist Django Application. This is a simple web application to show is it new year or not when user vist the site. if it's new year shows YES otherwise it shows NO. just a basic application. </p>
 
