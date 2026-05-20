@@ -2,7 +2,9 @@
 
 <p>Description: My fist Django Application. This is a simple web application to show is it new year or not when user vist the site. if it's new year shows YES otherwise it shows NO. just a basic application. </p>
 
-<h2>How to run Project</h2>
+<p>Python Version: 3.12</p>
+
+<h2>How to run the Project</h2>
 
 <p>Fist clone the project from Github</p>
 <pre>git clone https://github.com/Madusankadev/Is-It-New-Year.git </pre>
